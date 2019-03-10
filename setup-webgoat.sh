@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Install openjdk 11
+# Install screen and openjdk 11
 apt update
 apt install software-properties-common screen -y
 add-apt-repository ppa:openjdk-r/ppa -y
