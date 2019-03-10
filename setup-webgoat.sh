@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# setup-webgoat.sh
+# Tested working on Ubuntu 16.04 2019-03-10
+
 # Install add-apt-repository, screen, and openjdk 11
 apt update
 apt install software-properties-common screen -y
